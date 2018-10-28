@@ -2,7 +2,7 @@
 
 ## راهنمای نصب :
 
-git clone https://Github.com/kia-pashang/Tabchi.git
+git clone https://github.com/farshiddk/T1994.git
 
 cd Tabchi
 
