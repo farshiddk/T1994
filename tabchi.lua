@@ -675,7 +675,7 @@ return tdcli.sendMessage(msg.chat_id_, 0, 1, text1, 1, "")
       end
     elseif text_:match("^(ارسال) (.*)$") then
       local matches = {
-        text_:match("^[!/#](ارسال) (.*)$")
+        text_:match("^(ارسال) (.*)$")
       }
       if #matches == 2 then
         if matches[2] == "همه" then
